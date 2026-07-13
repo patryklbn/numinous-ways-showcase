@@ -9,9 +9,9 @@ A cross-platform mobile app for a therapeutic retreat company, connecting retrea
 ## Screenshots
 
 <p float="left">
-  <img src="./images/screenshot-1.png" width="30%" />
-  <img src="./images/screenshot-2.png" width="30%" />
-  <img src="./images/screenshot-3.png" width="30%" />
+  <img src="./screenshot-1.png" width="30%" />
+  <img src="./screenshot-2.png" width="30%" />
+  <img src="./screenshot-3.png" width="30%" />
 </p>
 
 ## Background
